@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="streamdeck-icons-wled" width="100%"></p>
+
 # WLED icons for Elgato Stream Deck
 
 **327 drop-in Stream Deck icons for [WLED](https://kno.wled.ge) — every effect as a looping animation, every colour palette as a swatch — so a key named *Fireworks* or *Lava* actually looks like it.**
